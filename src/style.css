@@ -1,0 +1,23 @@
+h1 {
+	color: MidnightBlue;
+	text-align: center;
+}
+
+#form {
+	text-align: center;
+
+}
+#div1 {
+	text-align: center;
+}
+
+#button {
+	background-color: LigthCyan;
+	border: none;
+	color: black;
+	padding: 16px 32px;
+	text-decoration: none;
+	margin-left: 0px;
+	margin-top: 5px;
+	cursor: pointer;
+}
